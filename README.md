@@ -5,8 +5,9 @@ A Telegram Bot That Accept Join Request In Private Groups
 </p>
 
 ## DEVELOPER
-[JEOL](https://t.me/JP_Jeol_org)
+[JEOL](https://t.me/Syd_Xyz)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sydxyz/AUTO-APPROVER-BOT)
 
 
 <p align="center">
